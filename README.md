@@ -204,4 +204,4 @@ Esto ejecuta `CrearBD()` si no existe la tabla `resultados`.
 
 ## 🚀 Autor
 
-Creado por [Tu Nombre] - 2025
+Creado por luis felipe ochoa cardona - 2025
